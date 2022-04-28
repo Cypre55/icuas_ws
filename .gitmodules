@@ -1,0 +1,18 @@
+[submodule "src/larics_gazebo_worlds"]
+	path = src/larics_gazebo_worlds
+	url = https://github.com/larics/larics_gazebo_worlds.git
+[submodule "src/storm_gazebo_ros_magnet"]
+	path = src/storm_gazebo_ros_magnet
+	url = https://github.com/larics/storm_gazebo_ros_magnet.git
+[submodule "src/uav_ros_simulation"]
+	path = src/uav_ros_simulation
+	url = https://github.com/larics/uav_ros_simulation.git
+[submodule "src/icuas22_competition"]
+	path = src/icuas22_competition
+	url = https://github.com/Cypre55/icuas22_competition.git
+[submodule "src/FUEL"]
+	path = src/FUEL
+	url = https://github.com/Cypre55/FUEL.git
+[submodule "src/ar_track_alvar"]
+	path = src/ar_track_alvar
+	url = https://github.com/Cypre55/ar_track_alvar.git
